@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-05-18T17:18:41.024611",
+  "model": "openai/whisper-small",
+  "dataset": "gmenon/slt-lyrics-audio",
+  "num_epochs": 2,
+  "lora_rank": 8,
+  "lora_alpha": 16,
+  "learning_rate": 2e-05,
+  "batch_size": 4,
+  "grad_accum_steps": 2,
+  "zero_shot": {
+    "wer": 0.8257839721254355,
+    "cer": 0.543754674644727,
+    "loss": 6.787860576923077
+  },
+  "best_val": {
+    "wer": 0.6794425087108014,
+    "cer": 0.450261780104712,
+    "loss": 1.1483811598557692
+  },
+  "test": {
+    "wer": 0.6293833919958285,
+    "cer": 0.4295516675779114,
+    "loss": 1.225863320486886,
+    "wer_improvement_pct": 23.783530167593764
+  },
+  "training_history": [
+    {
+      "epoch": 1,
+      "train_loss": 2.5467454892113097,
+      "val_loss": 1.1732835036057692,
+      "val_wer": 0.6794425087108014,
+      "val_cer": 0.45474943904263276
+    },
+    {
+      "epoch": 2,
+      "train_loss": 1.1513844323536706,
+      "val_loss": 1.1483811598557692,
+      "val_wer": 0.6794425087108014,
+      "val_cer": 0.450261780104712
+    }
+  ],
+  "target_achieved_15pct_wer_reduction": true
+}

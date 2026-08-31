@@ -1,0 +1,104 @@
+==========================================================================================
+QUALITATIVE SAMPLE PREDICTIONS
+Generated: 2026-05-18 17:18:41
+==========================================================================================
+
+[Sample 01]
+  REF : she is everything to me
+  HYP : the years of earth thanks me
+  WER : 100.0%   CER : 73.9%   Similarity : 54.9%
+
+[Sample 02]
+  REF : i wanna be somebody
+  HYP : i want to see you so bad
+  WER : 150.0%   CER : 73.7%   Similarity : 55.8%
+
+[Sample 03]
+  REF : said why you always running in place
+  HYP : said why you're always running in place
+  WER : 14.3%   CER : 8.3%   Similarity : 96.0%
+
+[Sample 04]
+  REF : call out the troops now in a hurry
+  HYP : call out the truth now in a hurry
+  WER : 12.5%   CER : 11.8%   Similarity : 89.6%
+
+[Sample 05]
+  REF : the day the music died
+  HYP : to take the music side
+  WER : 60.0%   CER : 36.4%   Similarity : 68.2%
+
+[Sample 06]
+  REF : running through my memories
+  HYP : and i'm going to my family
+  WER : 125.0%   CER : 74.1%   Similarity : 49.1%
+
+[Sample 07]
+  REF : desperate plans make sense in a low life
+  HYP : the deeper its sand makes it a low life
+  WER : 75.0%   CER : 42.5%   Similarity : 70.9%
+
+[Sample 08]
+  REF : lord i'm comin' home to you
+  HYP : but i'm coming home to you
+  WER : 33.3%   CER : 18.5%   Similarity : 83.0%
+
+[Sample 09]
+  REF : knit one pearl one drop one curl one
+  HYP : it's one power look one power
+  WER : 75.0%   CER : 58.3%   Similarity : 52.3%
+
+[Sample 10]
+  REF : how long until you walk away
+  HYP : the longings in you are the pain
+  WER : 100.0%   CER : 67.9%   Similarity : 53.3%
+
+[Sample 11]
+  REF : for everything
+  HYP : for everything
+  WER : 0.0%   CER : 0.0%   Similarity : 100.0%
+
+[Sample 12]
+  REF : let me down don't let me
+  HYP : let me stand don't let me
+  WER : 16.7%   CER : 16.7%   Similarity : 85.7%
+
+[Sample 13]
+  REF : what is dub dub in this life
+  HYP : i'm gonna get you
+  WER : 100.0%   CER : 85.7%   Similarity : 17.8%
+
+[Sample 14]
+  REF : but they lived under water
+  HYP : but it is not
+  WER : 80.0%   CER : 65.4%   Similarity : 51.3%
+
+[Sample 15]
+  REF : you don't live here anymore
+  HYP : i don't think you'll let it go
+  WER : 120.0%   CER : 81.5%   Similarity : 38.6%
+
+[Sample 16]
+  REF : i wanna meet andtalk with you
+  HYP : i wanna meet you and talk with you
+  WER : 50.0%   CER : 17.2%   Similarity : 92.1%
+
+[Sample 17]
+  REF : and getting nowhere
+  HYP : and getting nowhere
+  WER : 0.0%   CER : 0.0%   Similarity : 100.0%
+
+[Sample 18]
+  REF : and everybody's gotta breathe somehow
+  HYP : and everybody's gonna breathe some air
+  WER : 60.0%   CER : 16.2%   Similarity : 85.3%
+
+[Sample 19]
+  REF : i come undone
+  HYP : i come under
+  WER : 33.3%   CER : 23.1%   Similarity : 88.0%
+
+[Sample 20]
+  REF : you're all around
+  HYP : you're all around
+  WER : 0.0%   CER : 0.0%   Similarity : 100.0%
